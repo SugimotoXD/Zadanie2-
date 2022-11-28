@@ -22,16 +22,9 @@ namespace Задание_14
                     Console.WriteLine("I=" + I);
                 }
             }
+            
             catch (Exception)
-
-            {
-
-
-
-
-
-
-            }
+         
         }
     }
 }
